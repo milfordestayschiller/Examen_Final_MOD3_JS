@@ -126,7 +126,7 @@ reset2.addEventListener("click", function () {
 var playAgain = document.querySelector("#playAgain")
 playAgain.addEventListener("click", function (event) {
 
-   factory1()
+   factory2()
    playAgain.style = "visibility: hidden"
 
    primerosTres.style = "visibility: visible !important"
