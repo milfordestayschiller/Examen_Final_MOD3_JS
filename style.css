@@ -1,0 +1,68 @@
+.square {
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    background: red;
+    margin: 10px 10px auto;
+    border-radius: 20px;
+
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #232323;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+#message {
+    color: white;
+    font-size: 130%;
+}
+
+#stripe {
+    color: white;
+    height: 30px;
+    text-align: center;
+}
+
+.body2 {
+    background-color: #232323;
+}
+
+#titulo {
+    padding: 40px;
+    background-color: #4682b4;
+}
+
+.container2 {
+    text-align: center;
+
+}
+
+.containerButtonsPlayAgain {
+    text-align: center;
+    width: 50%;
+}
+
+.containerPlay {
+    height: 0px;
+    position: relative;
+
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+
+
+}
