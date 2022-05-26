@@ -1,16 +1,15 @@
 .square {
     float: left;
     width: 30%;
-    height: 0;
+    height: 0%;
     padding-bottom: 30%;
     background: red;
-    margin: 10px 10px auto;
+    margin: 5px;
     border-radius: 20px;
-
 }
 
 .container {
-    max-width: 600px;
+    width: 600px;
     margin: 0 auto;
 }
 
@@ -21,48 +20,25 @@ body {
 h1 {
     color: white;
     text-align: center;
-
 }
 
 #message {
     color: white;
-    font-size: 130%;
+}
+
+.selected {
+    outline: none;
+    color: red;
+    background: black;
+
 }
 
 #stripe {
+    text-align: center;
+}
+
+#rgb {
     color: white;
-    height: 30px;
-    text-align: center;
-}
-
-.body2 {
-    background-color: #232323;
-}
-
-#titulo {
     padding: 40px;
-    background-color: #4682b4;
-}
-
-.container2 {
-    text-align: center;
-
-}
-
-.containerButtonsPlayAgain {
-    text-align: center;
-    width: 50%;
-}
-
-.containerPlay {
-    height: 0px;
-    position: relative;
-
-}
-
-.vertical-center {
-    margin: 0;
-    position: absolute;
-
-
+    background-color: #4682b4
 }
